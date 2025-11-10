@@ -1,7 +1,7 @@
 
 ***
 
-# Advanced Thermal Management of Lithium-Ion Battery Pack Using Hybrid Cooling Strategies
+# Advanced Thermal Management of  Battery Pack Using Hybrid Cooling Strategies
 
 ## Abstract
 
