@@ -5,7 +5,7 @@
 
 ## Abstract
 
-This repository presents a comprehensive CFD-based study of lithium-ion battery thermal management. Three cooling strategies—air-based convective, PCM–air hybrid, and active serpentine liquid cooling—are modeled and compared for efficiency, uniformity, and energy consumption. The goal is to guide the design of optimal battery thermal management systems (BTMS) for electric vehicles and energy storage.
+This repository presents a comprehensive CFD-based study of battery thermal management. Three cooling strategies—water-based convective, immersed-water hybrid, and active serpentine liquid cooling—are modeled and compared for efficiency, uniformity, and energy consumption. The goal is to guide the design of optimal battery thermal management systems (BTMS) for electric vehicles and energy storage.
 
 ## Repository Contents
 
