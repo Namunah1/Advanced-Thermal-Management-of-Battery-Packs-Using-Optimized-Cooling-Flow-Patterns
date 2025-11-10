@@ -12,7 +12,7 @@ This repository presents a comprehensive CFD-based study of battery thermal mana
 | File Name                                 | Description                                                   |
 |--------------------------------------------|---------------------------------------------------------------|
 | Battery Active Serpentine Flow Cooling.wbpj    | CFD project: active liquid serpentine cooling                 |
-| Battery Air-Based Convective Cooling.wbpj      | CFD project: forced air cooling                              |
+| Battery Water-Based Convective Cooling.wbpj      | CFD project: forced Water cooling                              |
 | Immersed Water Cooling for Battery Pack.wbpj     | CFD project: Immersed Cooling                  |
 | README.md                                 | Documentation and simulation summary                         |
 
@@ -45,8 +45,8 @@ All simulation models share consistent geometric, physical, and numerical parame
 
 ## Cooling Strategies Modeled
 
-- **Air-Based Cooling**: Forced convection through channel, best for simplicity.
-- **PCM–Air Hybrid Cooling**: Incorporates phase change material to buffer thermal spikes, improves peak temperature regulation.
+- ** Forced Water BasedCooling**: Forced convection through channel, best for simplicity.
+- **Immersed Water Cooling**: Incorporates phase change material to buffer thermal spikes, improves peak temperature regulation.
 - **Serpentine Liquid Cooling**: Maximizes heat transfer and temperature uniformity via a coiled liquid channel; achieves minimal ΔT.
 
 ## Tools & Software
