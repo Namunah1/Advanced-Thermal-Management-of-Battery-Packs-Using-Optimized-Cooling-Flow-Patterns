@@ -1,0 +1,1 @@
+# Advanced-Thermal-Management-of-Battery-Packs-Using-Optimized-Cooling-Flow-Patterns
